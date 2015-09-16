@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 分別布施經
+#+DATE: 2015-08-30 19:30:28.891738
+#+PROPERTY: JUAN 0
